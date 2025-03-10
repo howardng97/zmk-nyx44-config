@@ -1,0 +1,11 @@
+file_format: "1"
+id: nyx44
+name: NYX44
+type: shield
+url: https://github.com/howardng97/zmk_nyx44
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - nyx44_left
+  - nyx44_right
