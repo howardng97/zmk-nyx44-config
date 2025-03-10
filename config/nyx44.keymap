@@ -30,7 +30,7 @@
 // ├─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┤    ├─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┤
    &kp MINUS  &kp LS(MINUS) &mmv MOVE_LEFT &mmv MOVE_UP &mmv MOVE_DOWN &mmv MOVE_RIGHT &trans &trans &trans &trans    &trans    &trans    &trans    &trans    &kp LEFT  &kp DOWN  &kp UP    &kp RIGHT &kp RS(EQUAL) &kp EQUAL
 // ├─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┤    ├─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┤
-   &trans     &kp LBKT  &kp RBKT  &kp LS(LBKT) &kp LS(RBKT) &mkp MB2 &kp K_CALC &trans &trans &trans        &trans    &trans    &trans    &kp PSCRN &mkp MB1  &msc SCRL_DOWN &msc SCRL_UP &trans &kp DEL &bt BT_CLR_ALL
+   &trans     &kp LBKT  &kp RBKT  &kp LS(LBKT) &kp LS(RBKT) &mkp MB2 &kp K_CALC &trans &trans &trans        &trans    &trans    &trans    &kp PSCRN &mkp MB1  &msc SCRL_DOWN &msc SCRL_UP &trans &kp DEL &trans
 // ├─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┤    ├─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┤
    &trans     &trans    &trans    &trans    &trans    &trans    &trans    &mo 2     &trans    &kp ENTER      &trans    &trans    &trans    &trans    &trans    &trans    &trans    &trans    &trans    &trans
 // └─────────┴─────────┴─────────┴─────────┴─────────┴─────────┴─────────┴─────────┴─────────┴─────────┘    └─────────┴─────────┴─────────┴─────────┴─────────┴─────────┴─────────┴─────────┴─────────┴─────────┘
